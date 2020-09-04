@@ -12,7 +12,7 @@
     "react-scripts": "3.4.3"
   },
 
-  "homepage" :"http://bhuwanpaneru.github.io/Vidhya-learn",
+  "homepage" :"https://bhuwanpaneru.github.io/Vidhya-learn",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
